@@ -279,7 +279,6 @@ function hand(){
       if (touches.length>1){
           touches.length = 1;
       }
-      //image(img, touches[i].x-120, touches[i].y-150, 120, 150);
     }
         image(img, mouseX-250, mouseY-400, 100, 120);
   
